@@ -14,4 +14,4 @@ Ce projet utilise un modèle de régression linéaire pour prédire le prix des 
 Clonez ce dépôt :
 
 ```bash
-git clone https://github.com/votre-nom-utilisateur/House-Price-Prediction.git
+git clone https://github.com/NathanMegnengue/House-Price-Prediction.git
